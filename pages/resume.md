@@ -23,7 +23,7 @@ resume, which may be several pages long and should include detailed
 information about the jobs you’ve held, your responsibilities, and what
 you accomplished.
 
-This is an [example](https://handbook.18f.gov/resume/) of what your resume might look like for a position with TTS.
+This is an [example]({{site.baseurl}}/resume/) of what your resume might look like for a position with TTS.
 
 ### General Recommendations
 
